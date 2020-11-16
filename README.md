@@ -2,12 +2,12 @@
 
 # installation 
 
-`npm i shadowOutOfTheBox --save`
+`npm i shadow-out-of-the-box --save`
 
 Then...
 
 ```
-import { shadowOutOfTheBox } from 'shadowOutOfTheBox';
+import { shadow-out-of-the-box } from 'shadow-out-of-the-box';
 
 shadowOutOfTheBox({
     shadow_type: 'soft',
